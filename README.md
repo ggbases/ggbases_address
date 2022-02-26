@@ -6,4 +6,4 @@
 >104.21.3.205	`ggbases.com`  
 >104.21.3.205 `www.ggbases.com`  
 
-這個 IP 一般不會變，如果失效，可以到 `https://www.pingdomain.com/` 查詢後重新設置。
+這個 IP 一般不會變，如果失效，可以到 `https://ping.eu/ping/` 查詢後重新設置。
