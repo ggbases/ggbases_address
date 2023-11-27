@@ -1,7 +1,8 @@
 ## 最新地址
-[ggbases.dlgal.com](https://ggbases.dlgal.com)
+[ggbases.dlgal.com](https://ggbases.dlgal.com)(某些地區被運營商的 dns 汙染：提示證書錯誤，無視後會顯示亂七八糟廣告內容)
 
-註：`www`域名疑似某些網絡無法正常解析，導致拒絕連接。
+[ggb.dlgal.com](https://ggb.dlgal.com)
+
 ## 如何訪問主域名
 在 `C:\Windows\System32\drivers\etc\hosts` 文件中加入下面兩行：
 
